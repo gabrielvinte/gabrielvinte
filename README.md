@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End`**
 
-Me chamo Gabriel Philipe Moreira, tenho 18 anos e sou natural do Maranhão. Concluí o ensino médio no IEMA, com o curso técnico em Desenvolvimento de Sistemas. Atualmente, estou cursando Sistemas de Informação no CEST. Além de entusiasta por tecnologia.
+Me chamo Gabriel Philipe Moreira, tenho 18 anos e sou natural do Maranhão. Concluí o ensino médio no IEMA, com o curso técnico em Desenvolvimento de Sistemas. Atualmente, estou cursando Sistemas de Informação no CEST. Além de ser entusiasta por tecnologia.
 
 <p align="left">
     <a href="https://github.com/gabrielvinte?tab=repositories&sort=stargazers">
