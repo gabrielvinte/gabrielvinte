@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End`**
 
-Me chamo Gabriel Philipe, tenho 18 anos e sou natural do Maranhão. Concluí o ensino médio no IEMA, com o curso técnico em Desenvolvimento de Sistemas. Atualmente, estou cursando Sistemas de Informação no Centro Universitário Santa Teresinha (CEST).
+Me chamo Gabriel Philipe, tenho 18 anos, natural do Maranhão. Concluí o ensino médio no Instituto Estadual de Educação, Ciência e Tecnologia do Maranhão (IEMA), com o curso técnico em Desenvolvimento de Sistemas. Atualmente, estou cursando Sistemas de Informação no Centro Universitário Santa Teresinha (CEST).
 
 <p align="left">
     <a href="https://github.com/gabrielvinte?tab=repositories&sort=stargazers">
