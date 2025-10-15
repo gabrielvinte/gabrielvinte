@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Gabriel Moreira
 
-**`Desenvolvedor Front-End`**
+**`Desenvolvedor Web`**
 
 Me chamo Gabriel Philipe, tenho 18 anos, natural do Maranhão. Concluí o ensino médio no Instituto Estadual de Educação, Ciência e Tecnologia do Maranhão (IEMA), com o curso técnico em Desenvolvimento de Sistemas. Atualmente, estou cursando Sistemas de Informação no Centro Universitário Santa Teresinha (CEST).
 
@@ -61,15 +61,6 @@ Me chamo Gabriel Philipe, tenho 18 anos, natural do Maranhão. Concluí o ensino
 
 <img 
     align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-
-<img 
-    align="left" 
     alt="PHP" 
     title="PHP"
     width="30px" 
@@ -77,6 +68,14 @@ Me chamo Gabriel Philipe, tenho 18 anos, natural do Maranhão. Concluí o ensino
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="MySQL"
+    title="MySQL" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
 
 <img 
     align="left" 
