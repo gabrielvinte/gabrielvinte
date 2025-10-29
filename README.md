@@ -105,7 +105,7 @@ Olá, me chamo Gabriel Philipe, tenho 18 anos, natural do Maranhão. Concluí o 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielvinte&theme=dark&layout=compact&custom_title=Technologies&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielvinte&theme=dark&layout=compact&custom_title=Tech&langs_count=9" 
   />
 
 </p>
